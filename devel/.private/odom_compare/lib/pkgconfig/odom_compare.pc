@@ -1,0 +1,8 @@
+prefix=/home/aidrivers01/all_ws/supporting_packages/devel/.private/odom_compare
+
+Name: odom_compare
+Description: Description of odom_compare
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

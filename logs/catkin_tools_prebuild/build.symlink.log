@@ -1,0 +1,12 @@
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./setup.zsh
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./setup.bash
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./_setup_util.py
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./env.sh
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./setup.sh
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./local_setup.sh
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./local_setup.zsh
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./cmake.lock
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/./local_setup.bash
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/aidrivers01/all_ws/supporting_packages/devel/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,1 @@
+/home/aidrivers01/all_ws/supporting_packages/devel/.private/catkin_tools_prebuild/local_setup.bash

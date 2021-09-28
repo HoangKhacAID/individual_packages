@@ -1,0 +1,8 @@
+prefix=/home/aidrivers01/all_ws/supporting_packages/install
+
+Name: aide_aidc_check
+Description: Description of aide_aidc_check
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+<node pkg="odom_compare" type="odom_compare" name="odom_compare" output="screen">
+<remap from="odom_1" to="/aide/odometry/gl/utm/novatel"/>
+<remap from="odom_2" to="/aide/odometry/bestutm/utm/novatel"/>
+</node>
+</launch>

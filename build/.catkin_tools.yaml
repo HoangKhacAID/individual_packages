@@ -1,0 +1,6 @@
+devel_space: /home/aidrivers01/all_ws/supporting_packages/devel
+install: false
+install_space: /home/aidrivers01/all_ws/supporting_packages/install
+profile: default
+source_space: /home/aidrivers01/all_ws/supporting_packages/src
+workspace: /home/aidrivers01/all_ws/supporting_packages
